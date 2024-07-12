@@ -1,0 +1,24 @@
+#headding{
+    text-align: center;
+    color: darkred;
+    background-color: chartreuse;
+}
+.homework{
+    border-style: solid;
+}
+#electronic,#clothing,#home{
+    border-top: solid;
+    padding: 5px;
+}
+img{
+    margin-left: 250px;
+}
+h2{
+    text-align: center;
+    background-color: aqua; 
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900; 
+}
+h3{
+    color: rgb(185, 0, 0);
+}
